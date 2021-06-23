@@ -105,4 +105,5 @@ Route::get('eleven-res', [ResponseController::class, 'fifth']);
 Route::get('twelve-res', [ResponseController::class, 'six']);
 
 
-// we will learn file, storage response in other sections
+// we will learn file, storage response in other sections for reference you can visit
+// https://laravel.com/docs/8.x/responses
